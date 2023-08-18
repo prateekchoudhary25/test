@@ -1,1 +1,0 @@
-"{{#user} Name: Prateek Choudhary Skills: Python,C,C++,Java,Data Sciecne,Web Devlopment Email: prateekprakashchoudhary@gmail.com {{/user}}" 
